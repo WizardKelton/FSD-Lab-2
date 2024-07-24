@@ -1,0 +1,10 @@
+.photo-section {
+    padding: 20px;
+}
+.photo {
+    margin-bottom: 20px;
+}
+.photo img {
+    max-width: 100%;
+    height: auto;
+}

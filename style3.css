@@ -1,0 +1,10 @@
+.animal-section {
+    padding: 20px;
+}
+.animal {
+    margin-bottom: 20px;
+}
+.animal img {
+    max-width: 100%;
+    height: auto;
+}
